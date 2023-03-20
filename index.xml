@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>网站标题</title>
-    <link>/</link>
+    <link>mouyase.github.io/YojigenLite-Template/</link>
     <description>Recent content on 网站标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 01 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="mouyase.github.io/YojigenLite-Template/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello YojigenLite</title>
-      <link>/post/1/</link>
+      <link>mouyase.github.io/YojigenLite-Template/post/1/</link>
       <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
       
-      <guid>/post/1/</guid>
+      <guid>mouyase.github.io/YojigenLite-Template/post/1/</guid>
       <description></description>
     </item>
     
